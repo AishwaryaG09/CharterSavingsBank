@@ -1,12 +1,73 @@
-# React + Vite
+# 🧾 Customer Rewards Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite-based web application that displays customer data and calculates reward points based on transaction history. The app features a paginated customer list and a detailed view of individual customer transactions and rewards.
 
-Currently, two official plugins are available:
+## 📁 Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+src/
+├── components/
+│ ├── CustomerData.jsx
+│ ├── SelectedCustomerDetails.jsx
+│ └── TableData.js
+├── styles/
+│ └── SelectedCustomerDetails.css
+├── utils/
+│ └── rewardUtils.js
+├── api.js
+├── App.jsx
+├── main.jsx public/
+├── data/
+│ ├── mock-data.json
+│ └── constants.js
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+### 📋 CustomerData Component
+
+- Fetches customer data from a local JSON file.
+- Displays a paginated table of customers.
+- Navigates to detailed view on row click.
+- Handles loading and error states gracefully.
+
+### 📊 SelectedCustomerDetails Component
+
+- Displays selected customer’s transaction history.
+- Filters transactions by month and year.
+- Calculates and displays reward points per month.
+- Paginated transaction details for selected months.
+
+---
+
+## 🧮 Reward Calculation Logic
+
+The reward points are calculated using the following logic (defined in `rewardUtils.js`):
+
+- **2 points** for every dollar spent over \$100.
+- **1 point** for every dollar spent over \$50 up to \$100.
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or later)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/AishwaryaG09/CharterSavingsBank.git
+cd CharterSavingsBank
+npm install
+npm run dev
+##The app will be available at http://localhost:5173.
+```
+
+### ▶️ Run Tests
+
+```bash
+npm run test
+```
