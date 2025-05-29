@@ -15,7 +15,8 @@ src/
 │ └── rewardUtils.js
 ├── api.js
 ├── App.jsx
-├── main.jsx public/
+├── main.jsx 
+public/
 ├── data/
 │ ├── mock-data.json
 │ └── constants.js
