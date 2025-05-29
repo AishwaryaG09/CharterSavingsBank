@@ -1,0 +1,700 @@
+{
+    "customerDataset": [
+        {
+            "customerId": "2001",
+            "customerName": "John Doe",
+            "transactions": [
+                {
+                    "transactionId": "2001_101",
+                    "amount": 120,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2001_102",
+                    "amount": 100,
+                    "date": "2025-01-14"
+                },
+                {
+                    "transactionId": "2001_103",
+                    "amount": 12,
+                    "date": "2025-01-08"
+                },
+                {
+                    "transactionId": "2001_104",
+                    "amount": 10,
+                    "date": "2025-01-02"
+                },
+                {
+                    "transactionId": "2001_105",
+                    "amount": 20,
+                    "date": "2025-01-17"
+                },
+                {
+                    "transactionId": "2001_106",
+                    "amount": 104,
+                    "date": "2025-01-16"
+                },
+                {
+                    "transactionId": "2001_107",
+                    "amount": 33,
+                    "date": "2025-03-03"
+                },
+                {
+                    "transactionId": "2001_108",
+                    "amount": 76,
+                    "date": "2025-18-04"
+                },
+                {
+                    "transactionId": "2001_109",
+                    "amount": 33,
+                    "date": "2025-03-03"
+                },
+                {
+                    "transactionId": "2001_110",
+                    "amount": 76,
+                    "date": "2025-18-04"
+                }
+            ]
+        },
+        {
+            "customerId": "2002",
+            "customerName": "Damien Salvator",
+            "transactions": [
+                {
+                    "transactionId": "2002_101",
+                    "amount": 150,
+                    "date": "2024-05-12"
+                },
+                {
+                    "transactionId": "2002_102",
+                    "amount": 201,
+                    "date": "2024-06-18"
+                },
+                {
+                    "transactionId": "2002_103",
+                    "amount": 320,
+                    "date": "2024-07-05"
+                },
+                {
+                    "transactionId": "2002_104",
+                    "amount": 275,
+                    "date": "2024-07-22"
+                },
+                {
+                    "transactionId": "2002_105",
+                    "amount": 199,
+                    "date": "2024-08-30"
+                },
+                {
+                    "transactionId": "2002_106",
+                    "amount": 145,
+                    "date": "2024-09-15"
+                },
+                {
+                    "transactionId": "2002_107",
+                    "amount": 333,
+                    "date": "2024-10-27"
+                },
+                {
+                    "transactionId": "2002_108",
+                    "amount": 289,
+                    "date": "2024-11-19"
+                },
+                {
+                    "transactionId": "2002_109",
+                    "amount": 310,
+                    "date": "2024-12-08"
+                },
+                {
+                    "transactionId": "2002_110",
+                    "amount": 120,
+                    "date": "2024-12-25"
+                },
+                {
+                    "transactionId": "2002_111",
+                    "amount": 198,
+                    "date": "2025-01-03"
+                },
+                {
+                    "transactionId": "2002_112",
+                    "amount": 342,
+                    "date": "2025-01-17"
+                },
+                {
+                    "transactionId": "2002_113",
+                    "amount": 276,
+                    "date": "2025-01-29"
+                },
+                {
+                    "transactionId": "2002_114",
+                    "amount": 134,
+                    "date": "2025-02-10"
+                },
+                {
+                    "transactionId": "2002_115",
+                    "amount": 312,
+                    "date": "2025-02-22"
+                },
+                {
+                    "transactionId": "2002_116",
+                    "amount": 158,
+                    "date": "2025-03-05"
+                },
+                {
+                    "transactionId": "2002_117",
+                    "amount": 341,
+                    "date": "2025-03-14"
+                },
+                {
+                    "transactionId": "2002_118",
+                    "amount": 199,
+                    "date": "2025-03-28"
+                },
+                {
+                    "transactionId": "2002_119",
+                    "amount": 287,
+                    "date": "2025-04-02"
+                },
+                {
+                    "transactionId": "2002_120",
+                    "amount": 165,
+                    "date": "2025-04-10"
+                },
+                {
+                    "transactionId": "2002_121",
+                    "amount": 330,
+                    "date": "2025-04-14"
+                },
+                {
+                    "transactionId": "2002_122",
+                    "amount": 210,
+                    "date": "2025-04-18"
+                },
+                {
+                    "transactionId": "2002_123",
+                    "amount": 145,
+                    "date": "2025-04-22"
+                },
+                {
+                    "transactionId": "2002_124",
+                    "amount": 299,
+                    "date": "2025-04-26"
+                },
+                {
+                    "transactionId": "2002_125",
+                    "amount": 178,
+                    "date": "2025-04-29"
+                },
+                {
+                    "transactionId": "2002_126",
+                    "amount": 340,
+                    "date": "2025-05-01"
+                },
+                {
+                    "transactionId": "2002_127",
+                    "amount": 132,
+                    "date": "2025-05-03"
+                },
+                {
+                    "transactionId": "2002_128",
+                    "amount": 305,
+                    "date": "2025-05-05"
+                },
+                {
+                    "transactionId": "2002_129",
+                    "amount": 198,
+                    "date": "2025-05-07"
+                },
+                {
+                    "transactionId": "2002_130",
+                    "amount": 276,
+                    "date": "2025-05-09"
+                },
+                {
+                    "transactionId": "2002_131",
+                    "amount": 250,
+                    "date": "2025-05-11"
+                },
+                {
+                    "transactionId": "2002_132",
+                    "amount": 310,
+                    "date": "2025-05-13"
+                },
+                {
+                    "transactionId": "2002_133",
+                    "amount": 145,
+                    "date": "2025-05-15"
+                },
+                {
+                    "transactionId": "2002_134",
+                    "amount": 199,
+                    "date": "2025-05-17"
+                },
+                {
+                    "transactionId": "2002_135",
+                    "amount": 342,
+                    "date": "2025-05-18"
+                },
+                {
+                    "transactionId": "2002_136",
+                    "amount": 276,
+                    "date": "2025-05-19"
+                },
+                {
+                    "transactionId": "2002_137",
+                    "amount": 134,
+                    "date": "2025-05-20"
+                },
+                {
+                    "transactionId": "2002_138",
+                    "amount": 312,
+                    "date": "2025-05-21"
+                },
+                {
+                    "transactionId": "2002_139",
+                    "amount": 158,
+                    "date": "2025-05-22"
+                },
+                {
+                    "transactionId": "2002_140",
+                    "amount": 341,
+                    "date": "2025-05-23"
+                },
+                {
+                    "transactionId": "2002_141",
+                    "amount": 199,
+                    "date": "2025-05-24"
+                },
+                {
+                    "transactionId": "2002_142",
+                    "amount": 287,
+                    "date": "2025-05-25"
+                },
+                {
+                    "transactionId": "2002_143",
+                    "amount": 165,
+                    "date": "2025-05-26"
+                },
+                {
+                    "transactionId": "2002_144",
+                    "amount": 330,
+                    "date": "2025-05-27"
+                },
+                {
+                    "transactionId": "2002_145",
+                    "amount": 210,
+                    "date": "2025-05-28"
+                },
+                {
+                    "transactionId": "2002_146",
+                    "amount": 145,
+                    "date": "2025-05-29"
+                },
+                {
+                    "transactionId": "2002_147",
+                    "amount": 299,
+                    "date": "2025-05-29"
+                },
+                {
+                    "transactionId": "2002_148",
+                    "amount": 178,
+                    "date": "2025-05-29"
+                },
+                {
+                    "transactionId": "2002_149",
+                    "amount": 340,
+                    "date": "2025-05-29"
+                },
+                {
+                    "transactionId": "2002_150",
+                    "amount": 132,
+                    "date": "2025-05-29"
+                }
+            ]
+        },
+        {
+            "customerId": "2003",
+            "customerName": "Klaus Miechelson",
+            "transactions": [
+                {
+                    "transactionId": "2003_101",
+                    "amount": 121,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2003_102",
+                    "amount": 70,
+                    "date": "2024-02-11"
+                },
+                {
+                    "transactionId": "2003_103",
+                    "amount": 55,
+                    "date": "2025-03-10"
+                },
+                {
+                    "transactionId": "2003_104",
+                    "amount": 5,
+                    "date": "2024-04-10"
+                },
+                {
+                    "transactionId": "2003_105",
+                    "amount": 150,
+                    "date": "2025-24-04"
+                },
+                {
+                    "transactionId": "2003_106",
+                    "amount": 201,
+                    "date": "2025-05-05"
+                },
+                {
+                    "transactionId": "2003_107",
+                    "amount": 50,
+                    "date": "2025-05-10"
+                },
+                {
+                    "transactionId": "2003_108",
+                    "amount": 90,
+                    "date": "2025-05-19"
+                }
+            ]
+        },
+        {
+            "customerId": "2004",
+            "customerName": "Rebeca",
+            "transactions": [
+                {
+                    "transactionId": "2004_101",
+                    "amount": 10,
+                    "date": "2025-12-24"
+                },
+                {
+                    "transactionId": "2004_102",
+                    "amount": 98,
+                    "date": "2025-03-15 "
+                },
+                {
+                    "transactionId": "2004_103",
+                    "amount": 14,
+                    "date": "2025-11-30"
+                },
+                {
+                    "transactionId": "2004_104",
+                    "amount": 7,
+                    "date": "2025-01-01"
+                }
+            ]
+        },
+        {
+            "customerId": "2005",
+            "customerName": "Paul wesley",
+            "transactions": [
+                {
+                    "transactionId": "2005_101",
+                    "amount": 120,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2005_102",
+                    "amount": 100,
+                    "date": "2025-01-14"
+                },
+                {
+                    "transactionId": "2005_103",
+                    "amount": 33,
+                    "date": "2025-03-03"
+                },
+                {
+                    "transactionId": "2005_104",
+                    "amount": 76,
+                    "date": "2025-18-04"
+                }
+            ]
+        },
+        {
+            "customerId": "2006",
+            "customerName": "Tyler Lockwood",
+            "transactions": [
+                {
+                    "transactionId": "2006_101",
+                    "amount": 150,
+                    "date": "2025-24-04"
+                },
+                {
+                    "transactionId": "2006_102",
+                    "amount": 201,
+                    "date": "2025-05-05"
+                },
+                {
+                    "transactionId": "2006_103",
+                    "amount": 50,
+                    "date": "2025-05-10"
+                },
+                {
+                    "transactionId": "2006_104",
+                    "amount": 90,
+                    "date": "2025-05-19"
+                }
+            ]
+        },
+        {
+            "customerId": "2007",
+            "customerName": "Matt Donovan",
+            "transactions": [
+                {
+                    "transactionId": "2007_101",
+                    "amount": 121,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2007_102",
+                    "amount": 70,
+                    "date": "2024-02-11"
+                },
+                {
+                    "transactionId": "2007_103",
+                    "amount": 55,
+                    "date": "2025-03-10"
+                },
+                {
+                    "transactionId": "2007_104",
+                    "amount": 5,
+                    "date": "2024-04-10"
+                }
+            ]
+        },
+        {
+            "customerId": "2008",
+            "customerName": "Bonnie Bennett",
+            "transactions": [
+                {
+                    "transactionId": "2008_101",
+                    "amount": 10,
+                    "date": "2025-12-24"
+                },
+                {
+                    "transactionId": "2008_102",
+                    "amount": 98,
+                    "date": "2023-12-05"
+                },
+                {
+                    "transactionId": "2008_103",
+                    "amount": 14,
+                    "date": "2025-11-30"
+                },
+                {
+                    "transactionId": "2008_104",
+                    "amount": 7,
+                    "date": "2025-01-01"
+                }
+            ]
+        },
+        {
+            "customerId": "2009",
+            "customerName": "Caroline Forbes",
+            "transactions": [
+                {
+                    "transactionId": "2009_101",
+                    "amount": 120,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2009_102",
+                    "amount": 100,
+                    "date": "2025-01-14"
+                },
+                {
+                    "transactionId": "2009_103",
+                    "amount": 33,
+                    "date": "2025-03-03"
+                },
+                {
+                    "transactionId": "2009_104",
+                    "amount": 76,
+                    "date": "2025-18-04"
+                }
+            ]
+        },
+        {
+            "customerId": "2010",
+            "customerName": "Ian somerhalder",
+            "transactions": [
+                {
+                    "transactionId": "2010_101",
+                    "amount": 150,
+                    "date": "2025-24-04"
+                },
+                {
+                    "transactionId": "2010_102",
+                    "amount": 201,
+                    "date": "2025-05-05"
+                },
+                {
+                    "transactionId": "2010_103",
+                    "amount": 50,
+                    "date": "2025-05-10"
+                },
+                {
+                    "transactionId": "2010_104",
+                    "amount": 90,
+                    "date": "2025-05-19"
+                }
+            ]
+        },
+        {
+            "customerId": "2011",
+            "customerName": "Elena Gilbert",
+            "transactions": [
+                {
+                    "transactionId": "2011_101",
+                    "amount": 121,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2011_102",
+                    "amount": 70,
+                    "date": "2024-02-11"
+                },
+                {
+                    "transactionId": "2011_103",
+                    "amount": 55,
+                    "date": "2025-03-10"
+                },
+                {
+                    "transactionId": "2011_104",
+                    "amount": 5,
+                    "date": "2024-04-10"
+                }
+            ]
+        },
+        {
+            "customerId": "2012",
+            "customerName": "Nina Dobrev",
+            "transactions": [
+                {
+                    "transactionId": "2012_101",
+                    "amount": 10,
+                    "date": "2025-12-24"
+                },
+                {
+                    "transactionId": "2012_102",
+                    "amount": 98,
+                    "date": "2023-12-05"
+                },
+                {
+                    "transactionId": "2012_103",
+                    "amount": 14,
+                    "date": "2025-11-30"
+                },
+                {
+                    "transactionId": "2012_104",
+                    "amount": 7,
+                    "date": "2025-01-01"
+                }
+            ]
+        },
+        {
+            "customerId": "2013",
+            "customerName": "Katherin Pierce",
+            "transactions": [
+                {
+                    "transactionId": "2013_101",
+                    "amount": 120,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2013_102",
+                    "amount": 100,
+                    "date": "2025-01-14"
+                },
+                {
+                    "transactionId": "2013_103",
+                    "amount": 33,
+                    "date": "2025-03-03"
+                },
+                {
+                    "transactionId": "2013_104",
+                    "amount": 76,
+                    "date": "2025-18-04"
+                }
+            ]
+        },
+        {
+            "customerId": "2014",
+            "customerName": "Heyley Marshall",
+            "transactions": [
+                {
+                    "transactionId": "2014_101",
+                    "amount": 150,
+                    "date": "2025-24-04"
+                },
+                {
+                    "transactionId": "2014_102",
+                    "amount": 201,
+                    "date": "2025-05-05"
+                },
+                {
+                    "transactionId": "2014_103",
+                    "amount": 50,
+                    "date": "2025-05-10"
+                },
+                {
+                    "transactionId": "2014_104",
+                    "amount": 90,
+                    "date": "2025-05-19"
+                }
+            ]
+        },
+        {
+            "customerId": "2015",
+            "customerName": "Jenna Sommer",
+            "transactions": [
+                {
+                    "transactionId": "2015_101",
+                    "amount": 121,
+                    "date": "2025-01-10"
+                },
+                {
+                    "transactionId": "2015_102",
+                    "amount": 70,
+                    "date": "2024-02-11"
+                },
+                {
+                    "transactionId": "2015_103",
+                    "amount": 55,
+                    "date": "2025-03-10"
+                },
+                {
+                    "transactionId": "2015_104",
+                    "amount": 5,
+                    "date": "2024-04-10"
+                }
+            ]
+        },
+        {
+            "customerId": "2016",
+            "customerName": "Elijah Mikaelson",
+            "transactions": [
+                {
+                    "transactionId": "2016_101",
+                    "amount": 10,
+                    "date": "2025-12-24"
+                },
+                {
+                    "transactionId": "2016_102",
+                    "amount": 98,
+                    "date": "2023-12-05"
+                },
+                {
+                    "transactionId": "2016_103",
+                    "amount": 14,
+                    "date": "2025-11-30"
+                },
+                {
+                    "transactionId": "2016_104",
+                    "amount": 7,
+                    "date": "2025-01-01"
+                }
+            ]
+        }
+    ]
+}

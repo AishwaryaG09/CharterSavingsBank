@@ -1,0 +1,11 @@
+.logo {
+    display: flex;
+    align-items: center;
+    margin: 5px 16px;
+}
+
+
+.header {
+    box-shadow: 0 2px 13px 0 rgba(0, 0, 0, .25);
+    display: flex;
+}
